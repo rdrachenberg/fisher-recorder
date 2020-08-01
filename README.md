@@ -1,7 +1,7 @@
 # Fisher-Recorder
 
 
-### [GitHub Pages Link Here](https://rdrachenberg.github.io/fisher-recorder/)
+### [Demo- GitHub Pages Link Here](https://rdrachenberg.github.io/fisher-recorder/)
 
 <p align='center'>
     <img src='https://img.shields.io/badge/JavaScript-88.6%25-brightgreen'> 
@@ -22,6 +22,18 @@
     Tasked with implementing functionality for CRUD operations on a biggest catch inputs form. 
 </h3>
 
+## File structure:
+
+        📦fisher-recorder
+        ┣ 📂gifs
+        ┃ ┣ 📜fisher.gif
+        ┃ ┣ 📜fisher2.gif
+        ┃ ┣ 📜fisher3.gif
+        ┃ ┗ 📜fisher4.gif
+        ┣ 📜README.md
+        ┣ 📜app.js
+        ┣ 📜index.html
+        ┗ 📜styles.css
 ## Load - Read
 <p align="center">
     <img src="./gifs/fisher.gif">
@@ -42,15 +54,3 @@
     <img src="./gifs/fisher4.gif">
 </p>
 
-## File structure:
-
-        📦fisher-recorder
-        ┣ 📂gifs
-        ┃ ┣ 📜fisher.gif
-        ┃ ┣ 📜fisher2.gif
-        ┃ ┣ 📜fisher3.gif
-        ┃ ┗ 📜fisher4.gif
-        ┣ 📜README.md
-        ┣ 📜app.js
-        ┣ 📜index.html
-        ┗ 📜styles.css
