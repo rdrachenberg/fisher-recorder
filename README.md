@@ -20,7 +20,7 @@
         <img src='https://img.shields.io/badge/Database-Firebase-red?style=flat-square&logo=Firebase'>
     </a>
     <a href='https://github.com/rdrachenberg'>
-        <img src='https://img.shields.io/badge/Made%20by-Ryan%20Drachenberg-success?style=flat-square&logo=visual-studio-code'>
+        <img src='https://img.shields.io/badge/Made%20by-rDrachenberg-success?style=flat-square&logo=visual-studio-code'>
     </a>
     <p align='center'>
         <a href='https://rdrachenberg.github.io/fisher-recorder/'>
