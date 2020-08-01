@@ -1,7 +1,7 @@
 # fisher-recorder
 Tasked with implementing functionality for CRUD operations on a biggest catch inputs form
 
-## [Click Demo Here](https://rdrachenberg.github.io/) 
+## [Click Demo Here](https://rdrachenberg.github.io/fisher-recorder/) 
 ## Link - https://rdrachenberg.github.io/fisher-recorder/
 
 ## Load - Read
