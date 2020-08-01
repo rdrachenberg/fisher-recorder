@@ -1,9 +1,10 @@
 # fisher-recorder
 Tasked with implementing functionality for CRUD operations on a biggest catch inputs form
 
-## Demo - https://rdrachenberg.github.io/fisher-recorder/
+## [Click Demo Here](https://rdrachenberg.github.io/) 
+## Link - https://rdrachenberg.github.io/fisher-recorder/
 
-## Load
+## Load - Read
 <p align="center">
     <img src="./gifs/fisher.gif">
 </p>
@@ -18,7 +19,26 @@ Tasked with implementing functionality for CRUD operations on a biggest catch in
     <img src="./gifs/fisher3.gif">
 </p>
 
-## Delete 
+## Delete
 <p align="center">
     <img src="./gifs/fisher4.gif">
 </p>
+
+**Technologies Used**
+* Javascript
+* FireBase
+* HTML 
+* CSS 
+
+## File structure:
+
+        📦fisher-recorder
+        ┣ 📂gifs
+        ┃ ┣ 📜fisher.gif
+        ┃ ┣ 📜fisher2.gif
+        ┃ ┣ 📜fisher3.gif
+        ┃ ┗ 📜fisher4.gif
+        ┣ 📜README.md
+        ┣ 📜app.js
+        ┣ 📜index.html
+        ┗ 📜styles.css
