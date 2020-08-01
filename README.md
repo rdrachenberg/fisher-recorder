@@ -12,6 +12,9 @@
     <a href='https://fisher-game.firebaseio.com/catches.json'>
         <img src='https://img.shields.io/badge/Database-Firebase-red'>
     </a>
+    <a href='https://fisher-game.firebaseio.com/catches.json'>
+        <img src='https://img.shields.io/badge/Made%20by-Ryan%20Drachenberg-success'>
+    </a>
     <p align='center'>
         <a href='https://rdrachenberg.github.io/fisher-recorder/'>
             <img src='https://img.shields.io/static/v1?label=Demo&message=Here&color=blue'>
@@ -34,14 +37,15 @@
         ┣ 📜app.js
         ┣ 📜index.html
         ┗ 📜styles.css
-## Load - Read
-<p align="center">
-    <img src="./gifs/fisher.gif">
-</p>
 
 ## Add - Create
 <p align="center">
     <img src="./gifs/fisher2.gif">
+</p>
+
+## Load - Read
+<p align="center">
+    <img src="./gifs/fisher.gif">
 </p>
 
 ## Edit - Update
@@ -53,4 +57,3 @@
 <p align="center">
     <img src="./gifs/fisher4.gif">
 </p>
-
