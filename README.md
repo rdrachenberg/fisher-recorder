@@ -5,19 +5,19 @@
 
 <p align='center'>
     <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/app.js'>
-        <img src='https://img.shields.io/badge/JavaScript-88.6%25-brightgreen'>
+        <img src='https://img.shields.io/badge/JavaScript-88.6%25-brightgreen?style=flat-square&logo=javascript'>
     </a>
     <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/index.html'> 
-        <img src='https://img.shields.io/badge/HTML-6.2%25-orange'>
+        <img src='https://img.shields.io/badge/HTML-6.2%25-orange?style=flat-square&logo=HTML5'>
     </a> 
     <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/index.html'>
-        <img src='https://img.shields.io/badge/CSS-5.2%25-purple'>
+        <img src='https://img.shields.io/badge/CSS-5.2%25-purple?style=flat-square&logo=CSS3'>
     </a>
     <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/LICENSE'>
-        <img src='https://img.shields.io/github/license/rdrachenberg/fisher-recorder?color=blue&logo=MIT'>
+        <img src='https://img.shields.io/github/license/rdrachenberg/fisher-recorder?color=blue&logo=Stackbit'>
     </a>
     <a href='https://fisher-game.firebaseio.com/catches.json'>
-        <img src='https://img.shields.io/badge/Database-Firebase-red'>
+        <img src='https://img.shields.io/badge/Database-Firebase-red?style=flat-square&logo=Firebase'>
     </a>
     <a href='https://github.com/rdrachenberg'>
         <img src='https://img.shields.io/badge/Made%20by-Ryan%20Drachenberg-success?style=flat-square&logo=visual-studio-code'>
