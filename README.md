@@ -1,26 +1,26 @@
 # Fisher-Recorder
-Tasked with implementing functionality for CRUD operations on a biggest catch inputs form. 
+
 
 ### [GitHub Pages Link Here](https://rdrachenberg.github.io/fisher-recorder/)
 
-## Technologies Used:
 <p align='center'>
     <img src='https://img.shields.io/badge/JavaScript-88.6%25-brightgreen'> 
     <img src='https://img.shields.io/badge/HTML-6.2%25-orange'> <img src='https://img.shields.io/badge/CSS-5.2%25-purple'>
     <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/LICENSE'>
         <img src='https://img.shields.io/github/license/rdrachenberg/fisher-recorder?color=blue&logo=MIT'>
     </a>
-</p>
-<h2 align='center'>
     <a href='https://fisher-game.firebaseio.com/catches.json'>
         <img src='https://img.shields.io/badge/Database-Firebase-red'>
     </a>
-    <p>
+    <p align='center'>
         <a href='https://rdrachenberg.github.io/fisher-recorder/'>
             <img src='https://img.shields.io/static/v1?label=Demo&message=Here&color=blue'>
         </a>
     </p>
-</h2>
+</p>
+<h3 align='center'>
+    Tasked with implementing functionality for CRUD operations on a biggest catch inputs form. 
+</h3>
 
 ## Load - Read
 <p align="center">
