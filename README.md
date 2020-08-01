@@ -4,8 +4,15 @@
 ### [Demo- GitHub Pages Link Here](https://rdrachenberg.github.io/fisher-recorder/)
 
 <p align='center'>
-    <img src='https://img.shields.io/badge/JavaScript-88.6%25-brightgreen'> 
-    <img src='https://img.shields.io/badge/HTML-6.2%25-orange'> <img src='https://img.shields.io/badge/CSS-5.2%25-purple'>
+    <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/app.js'>
+        <img src='https://img.shields.io/badge/JavaScript-88.6%25-brightgreen'>
+    </a>
+    <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/index.html'> 
+        <img src='https://img.shields.io/badge/HTML-6.2%25-orange'>
+    </a> 
+    <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/index.html'>
+        <img src='https://img.shields.io/badge/CSS-5.2%25-purple'>
+    </a>
     <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/LICENSE'>
         <img src='https://img.shields.io/github/license/rdrachenberg/fisher-recorder?color=blue&logo=MIT'>
     </a>
