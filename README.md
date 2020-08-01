@@ -7,7 +7,9 @@ Tasked with implementing functionality for CRUD operations on a biggest catch in
 <p align='center'>
     <img src='https://img.shields.io/badge/JavaScript-88.6%25-brightgreen'> 
     <img src='https://img.shields.io/badge/HTML-6.2%25-orange'> <img src='https://img.shields.io/badge/CSS-5.2%25-purple'>
-    <img src='https://img.shields.io/github/license/rdrachenberg/fisher-recorder?color=blue&logo=MIT'>
+    <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/LICENSE'>
+        <img src='https://img.shields.io/github/license/rdrachenberg/fisher-recorder?color=blue&logo=MIT'>
+    </a>
 </p>
 <h2 align='center'>
     <a href='https://fisher-game.firebaseio.com/catches.json'>
