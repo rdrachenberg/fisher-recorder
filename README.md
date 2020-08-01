@@ -12,7 +12,7 @@
     <a href='https://fisher-game.firebaseio.com/catches.json'>
         <img src='https://img.shields.io/badge/Database-Firebase-red'>
     </a>
-    <a href='https://fisher-game.firebaseio.com/catches.json'>
+    <a href='https://github.com/rdrachenberg'>
         <img src='https://img.shields.io/badge/Made%20by-Ryan%20Drachenberg-success'>
     </a>
     <p align='center'>
