@@ -1,6 +1,7 @@
 # Fisher-Recorder
 Tasked with implementing functionality for CRUD operations on a biggest catch inputs form. 
-### [GitHub Pages Link Here]('https://rdrachenberg.github.io/fisher-recorder/')
+
+### [GitHub Pages Link Here](https://rdrachenberg.github.io/fisher-recorder/)
 
 ## Technologies Used:
 <p align='center'>
