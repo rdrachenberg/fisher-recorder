@@ -28,7 +28,7 @@
 </p>
     <p align='center'>
             <a href='https://rdrachenberg.github.io/fisher-recorder/'>
-                <img src='https://img.shields.io/static/v1?label=Demo&width=100&message=Here&color=blue&style=plastic&logoColor=aqua'>
+                <img src='https://img.shields.io/static/v1?label=Demo------------------------>&message=Here&color=success&style=plastic'>
             </a>
     </p>
 
