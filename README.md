@@ -26,14 +26,21 @@
         <img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg'>
     </a>
 </p>
-    <p align='center'>
-            <a href='https://rdrachenberg.github.io/fisher-recorder/'>
-                <img src='https://img.shields.io/static/v1?label=Demo------------------------>&message=Here&color=success&style=plastic'>
-            </a>
-    </p>
+<p align='center'>
+        <a href='https://rdrachenberg.github.io/fisher-recorder/'>
+            <img src='https://img.shields.io/static/v1?label=Demo------------------------>&message=Here&color=success&style=plastic'>
+        </a>
+</p>
+<p align='center'>
+    <a href='https://rdrachenberg.github.io/fisher-recorder/'>
+        <img src='https://forthebadge.com/images/badges/powered-by-electricity.svg'>
+        <img src=https://forthebadge.com/images/badges/check-it-out.svg>
+    </a>
+</p>
 
 <h3 align='center'>
     Tasked with implementing functionality for CRUD operations on a biggest catch inputs form. 
+    
 </h3>
 
 ## File structure:
